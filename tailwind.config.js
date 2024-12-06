@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   darkMode: ['class'],
   content: [
     './pages/**/*.{js,jsx}',
@@ -18,8 +18,8 @@ export default {
     },
     extend: {
       fontFamily: {
-        agbalumo: ["Agbalumo", 'serif'],
-        sigmar: ["Sigmar", 'sans-serif']
+        agbalumo: ['Agbalumo', 'serif'],
+        sigmar: ['Sigmar', 'sans-serif'],
       },
       colors: {
         border: 'hsl(var(--border))',

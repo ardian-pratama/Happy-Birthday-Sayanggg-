@@ -81,7 +81,7 @@ export default function HomePage() {
                 alt=''
                 className='scale-75'
               />
-              <p></p>
+              <p>Kamu akan selalu menjadi perempuan paling spesial di hidupku, karena setiap hal kecil yang ku lakukan bersama mu adalah sebuah kebahagiaan yang sangat istimewaa</p>
             </div>
           </CarouselItem>
         </CarouselContent>
